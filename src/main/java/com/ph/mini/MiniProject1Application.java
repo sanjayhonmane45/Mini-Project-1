@@ -10,7 +10,7 @@ public class MiniProject1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(MiniProject1Application.class, args);
 		System.out.println("----------------------------------------------------------");
-		System.out.println("--------Application Running Sucessfully-------------------");
+		System.out.println("--------Application Running Sucessfully 8080-------------------");
 		System.out.println("----------------------------------------------------------");
 
 	}
